@@ -3,7 +3,7 @@
 A simple and responsive website for managing athletes, coaches, schedules, attendance, and performance. 
 Built using only **HTML, CSS, and JavaScript** - no frameworks.
 
-Live Demo: [https://your-project-link.vercel.app](sportsmanagment-326-uu1y.vercel.app)
+Live Demo: https://sportsmanagment-326-uu1y.vercel.app
 
 ---
 
